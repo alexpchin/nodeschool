@@ -1,2 +1,3 @@
-# nodeschool
-Progress through the Nodeschool Tutorials
+# Nodeschool
+
+My progress through the Nodeschool tutorials.
