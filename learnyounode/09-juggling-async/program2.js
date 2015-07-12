@@ -4,7 +4,9 @@ var done = [false, false, false];
 
 function httpGet(index){
   http.get(process.argv[2+index], function(res){
-    res.on('data', function(data){strArray[index] = strArray[index] + data.toString()});
+    res.on('data', function(data){
+      strArray[index] = strArray[index] + data.toString()
+    });
     res.on('end', function(){
       done[index] = true;
       printStrings();
