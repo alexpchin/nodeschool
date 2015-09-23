@@ -4,10 +4,12 @@
   "description": "",
   "main": "01-beep-boop.js",
   "dependencies": {
+    "concat-stream": "^1.5.0",
     "http": "^0.0.0",
+    "request": "^2.63.0",
+    "require": "^2.4.20",
     "split": "^1.0.0",
-    "through2": "^2.0.0",
-    "concat-stream": "^1.5.0"
+    "through2": "^2.0.0"
   },
   "devDependencies": {},
   "scripts": {
