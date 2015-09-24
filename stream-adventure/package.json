@@ -9,7 +9,8 @@
     "request": "^2.63.0",
     "require": "^2.4.20",
     "split": "^1.0.0",
-    "through2": "^2.0.0"
+    "through2": "^2.0.0",
+    "websocket-stream": "^2.0.2"
   },
   "devDependencies": {},
   "scripts": {
