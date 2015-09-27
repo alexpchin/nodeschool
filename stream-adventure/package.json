@@ -10,6 +10,7 @@
     "require": "^2.4.20",
     "split": "^1.0.0",
     "through2": "^2.0.0",
+    "trumpet": "^1.7.1",
     "websocket-stream": "^2.0.2"
   },
   "devDependencies": {},
